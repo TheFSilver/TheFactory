@@ -7,11 +7,9 @@ Bienvenue sur le repository de la superbe application Rails de François Dasylva
 Ce projet crée une base de donnée pour le site d'une usine.
 
 Nous avons créer un modèle assemblage, qui serait l'assemblage de plusieurs pièces. Une pièce peut appartenir à plusieurs assemblages.
-Il y a deux modèles :
-	•	le model assembly, qui a comme attribut :
-	◦	un name, qui est un string
-	•	le model part, qui a comme attribut :
-	◦	un part_number qui est un string
+Il y a deux modèles :<br>
+- le model assembly, qui a comme attribut : un name, qui est un string
+- le model part, qui a comme attribut : un part_number qui est un string
 
 ## Instructions ##
 Pour tester notre super appli, réalisez les processus suivants :
